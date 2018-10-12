@@ -62,7 +62,7 @@ the sample Java web application. We suggest making a small change to
 pushed to your project's repository are automatically picked up and deployed
 to the Amazon EC2 instance by AWS Elastic Beanstalk. (You can watch the progress
 on your project dashboard.) Once you've seen how that works, start developing
-your own code, and have fun!
+your own code, and have fun!!!
 
 To run your tests locally, go to the root directory of the sample code and run the
 `mvn clean compile test` command, which AWS CodeBuild also runs through your `buildspec.yml` file.
